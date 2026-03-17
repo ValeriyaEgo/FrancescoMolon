@@ -16,7 +16,7 @@ body {
   font-size: 4.75rem;
 }
 .display-2 {
-  font-family: 'Stack Sans Notch', sans-serif;
+  font-family: 'Stack Sans Text', sans-serif;
   font-size: 2.4rem;
   line-height: 1.15;
 }
@@ -1977,6 +1977,59 @@ img,
 .cid-vb8P7fqAhN .mbr-section-btn {
   text-align: center;
 }
+.cid-vcl0vvh5JP {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-vcl0vvh5JP .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vcl0vvh5JP .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-vcl0vvh5JP .title-wrapper {
+    margin-bottom: 40px;
+  }
+}
+.cid-vcl0vvh5JP .title-wrapper .mbr-label {
+  margin-bottom: 20px;
+}
+.cid-vcl0vvh5JP .title-wrapper .mbr-section-title {
+  margin-bottom: 20px;
+}
+.cid-vcl0vvh5JP .title-wrapper .mbr-text {
+  margin-bottom: 0;
+}
+.cid-vcl0vvh5JP .title-wrapper .mbr-section-btn {
+  margin-top: 20px;
+}
+.cid-vcl0vvh5JP .image-wrapper img {
+  width: 100%;
+  height: 480px;
+  object-fit: none;
+}
+@media (max-width: 992px) {
+  .cid-vcl0vvh5JP .image-wrapper img {
+    height: 300px;
+  }
+}
+.cid-vcl0vvh5JP .mbr-label {
+  color: #800020;
+}
+.cid-vcl0vvh5JP .mbr-section-title {
+  color: #000000;
+}
+.cid-vcl0vvh5JP .mbr-text {
+  color: #000000;
+}
 .cid-v3gsU5XQsw {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2648,98 +2701,36 @@ img,
 .cid-v3gt1GqT8p .panel-text {
   color: #6c7179;
 }
-.cid-v3gt2PAIyj {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #f7f7f7;
+.cid-ve20GlghKr {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #2b0a12;
 }
-.cid-v3gt2PAIyj .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-v3gt2PAIyj .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-v3gt2PAIyj .card-wrapper {
-  border: 8px solid #ffffff;
-  background-color: #ffffff;
-  padding: 60px;
-  box-shadow: 0 10px 25px -20px #6c7179;
-}
-@media (max-width: 992px) {
-  .cid-v3gt2PAIyj .card-wrapper {
-    padding: 20px;
+@media (max-width: 991px) {
+  .cid-ve20GlghKr .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-.cid-v3gt2PAIyj .card-wrapper .mbr-section-title {
-  margin-bottom: 80px;
+.cid-ve20GlghKr .text-wrapper {
+  padding: 2rem 1rem;
 }
-@media (max-width: 992px) {
-  .cid-v3gt2PAIyj .card-wrapper .mbr-section-title {
-    margin-bottom: 20px;
+.cid-ve20GlghKr img {
+  width: 80%;
+  padding: 2rem 0;
+  margin: auto;
+}
+@media (min-width: 992px) {
+  .cid-ve20GlghKr .text-wrapper {
+    padding: 2rem;
   }
 }
-.cid-v3gt2PAIyj .card-wrapper .nav-wrapper {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 28px 16px;
-  margin-bottom: 80px;
+.cid-ve20GlghKr .mbr-text {
+  color: #bbbbbb;
 }
-@media (max-width: 1440px) {
-  .cid-v3gt2PAIyj .card-wrapper .nav-wrapper {
-    grid-template-columns: 1fr 1fr;
-  }
+.cid-ve20GlghKr .mbr-section-title {
+  color: #ffffff;
 }
-@media (max-width: 992px) {
-  .cid-v3gt2PAIyj .card-wrapper .nav-wrapper {
-    gap: 28px;
-    margin-bottom: 40px;
-  }
-}
-@media (max-width: 768px) {
-  .cid-v3gt2PAIyj .card-wrapper .nav-wrapper {
-    grid-template-columns: 1fr;
-  }
-}
-.cid-v3gt2PAIyj .card-wrapper .nav-wrapper .nav-wrap .mbr-list-title {
-  margin-bottom: 16px;
-}
-.cid-v3gt2PAIyj .card-wrapper .nav-wrapper .nav-wrap .list {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-.cid-v3gt2PAIyj .card-wrapper .nav-wrapper .nav-wrap .list .item-wrap {
-  position: relative;
-  margin-bottom: 12px;
-  transition: all 0.3s ease-in-out;
-}
-.cid-v3gt2PAIyj .card-wrapper .nav-wrapper .nav-wrap .list .item-wrap:hover,
-.cid-v3gt2PAIyj .card-wrapper .nav-wrapper .nav-wrap .list .item-wrap:focus {
-  color: #000000;
-}
-.cid-v3gt2PAIyj .card-wrapper .nav-wrapper .nav-wrap .list .item-wrap:last-child {
-  margin-bottom: 0;
-}
-.cid-v3gt2PAIyj .card-wrapper .mbr-copy {
-  margin-bottom: 0;
-}
-.cid-v3gt2PAIyj .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-v3gt2PAIyj .mbr-list-title {
-  color: #000000;
-}
-.cid-v3gt2PAIyj .list {
-  color: #6c7179;
-}
-.cid-v3gt2PAIyj .mbr-copy {
-  color: #6c7179;
-  text-align: center;
+.cid-ve20GlghKr .row {
+  border-top: 2px solid rgba(255, 255, 255, 0.15);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.15);
 }
