@@ -58,13 +58,26 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "owpn6cpuns",
+    "mbrsiteDomain": "dr7cnxfovm",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#ffffff",
+      "colorButton": "#2b0a12",
+      "rejectColor": "#ffffff",
+      "colorLink": "#000000",
+      "underlineLink": true,
+      "opacityOverlay": "0",
+      "bgOpacity": "100",
+      "text": "Мы используем файлы cookie для обеспечения наилучшего пользовательского опыта.",
+      "textButton": "Принять",
+      "rejectText": "REJECT"
+    },
     "gdpr": false,
     "mcSmartCart": {
       "currency": "USD"
