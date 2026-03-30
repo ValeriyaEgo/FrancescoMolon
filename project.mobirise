@@ -42,7 +42,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Francesco-molon.ru",
+    "name": "https://nerokhova.ru/",
     "versionFirst": "6.1.12",
     "siteFonts": [
       {
@@ -58,7 +58,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "s4jxctyhvz",
+    "mbrsiteDomain": "owpn6cpuns",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
