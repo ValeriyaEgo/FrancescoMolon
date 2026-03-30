@@ -8,7 +8,7 @@ body {
   font-family: Stack Sans Notch;
 }
 .display-1 {
-  font-family: 'Stack Sans Notch', sans-serif;
+  font-family: 'Stack Sans Text', sans-serif;
   font-size: 3.8rem;
   line-height: 1;
 }
@@ -32,7 +32,7 @@ body {
   font-size: 1.25rem;
 }
 .display-5 {
-  font-family: 'Stack Sans Notch', sans-serif;
+  font-family: 'Stack Sans Text', sans-serif;
   font-size: 1.375rem;
   line-height: 1.2;
 }
@@ -2461,8 +2461,72 @@ img,
 .cid-vb8LGScZER label {
   color: #6c7179;
 }
+.cid-vfmEFzEyJp {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #f7f7f7;
+}
+.cid-vfmEFzEyJp .content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cid-vfmEFzEyJp .mbr-section-title {
+  color: #000000;
+  margin-bottom: 20.4px;
+}
+.cid-vfmEFzEyJp .animation-box {
+  position: relative;
+  width: 78px;
+  height: 86px;
+}
+@keyframes zoom-1 {
+  0%,
+  10% {
+    transform: scale(0) rotate(0);
+  }
+  30%,
+  32% {
+    transform: scale(0.6) rotate(10deg);
+  }
+  100%,
+  85% {
+    transform: scale(0) rotate(60deg);
+  }
+}
+@keyframes zoom-2 {
+  0%,
+  15% {
+    transform: scale(0) rotate(0);
+  }
+  50%,
+  54% {
+    transform: scale(0.4) rotate(0);
+  }
+  100%,
+  82% {
+    transform: scale(0) rotate(80deg);
+  }
+}
+.cid-vfmEFzEyJp .star {
+  color: #ee3102;
+  fill: currentColor;
+  overflow: hidden;
+}
+.cid-vfmEFzEyJp .star:nth-of-type(2) {
+  position: absolute;
+  top: -35px;
+  left: 50px;
+  transform: scale(0);
+}
+.cid-vfmEFzEyJp .star:nth-of-type(3) {
+  position: absolute;
+  top: -45px;
+  left: -50px;
+}
 .cid-v3gt12aWzw {
-  padding-top: 5rem;
+  padding-top: 2rem;
   padding-bottom: 5rem;
   background-color: #f7f7f7;
 }
