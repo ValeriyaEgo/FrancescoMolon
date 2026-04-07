@@ -58,7 +58,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/photo-2026-04-072011.23.20-128x95.png",
-    "mbrsiteDomain": "mvbjak4trx",
+    "mbrsiteDomain": "wbwbaicghi",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -85,7 +85,8 @@
     "uniqCompNum": 13,
     "versionPublish": "6.1.12",
     "screenshot": "screenshot.png",
-    "google-analytics": "<style>\n.alert-success {\n  background-color: #f0f0f0 !important;\n  color: #000 !important;\n  border: none !important;\n}\n</style>"
+    "google-analytics": "<style>\n.alert-success {\n  background-color: #f0f0f0 !important;\n  color: #000 !important;\n  border: none !important;\n}\n</style>",
+    "global_header_custom": "<meta name=\"yandex-verification\" content=\"b971cc0cb40a8cb4\" />"
   },
   "pages": {
     "index.html": {
